@@ -5,6 +5,10 @@
 // Aguarda o carregamento completo do DOM
 document.addEventListener('DOMContentLoaded', function() {
     console.log('Landing Page carregada com sucesso!');
+    // Mensagem de boas-vindas no console
+document.addEventListener('DOMContentLoaded', function() {
+    console.log('Devlearn - Landing Page carregada com sucesso!');
+});
 });
 
 // TODO: Adicionar interatividade à página
